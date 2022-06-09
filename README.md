@@ -1,5 +1,5 @@
 
-# Setup Docker Para Projetos Laravel (8 ou 9)
+# Setup Docker Para Projetos Laravel 9
 
 
 ### Passo a passo
